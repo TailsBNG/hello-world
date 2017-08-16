@@ -1,2 +1,3 @@
 # hello-world
-Let's find out how GitHub works
+
+I am now in the process of finding out how GitHub works
